@@ -1,4 +1,4 @@
-# Implementation-of-Linear-Regression-Using-Gradient-Descent
+![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/161f37e8-f978-43f0-8ecb-c6247807ae25)# Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
@@ -94,29 +94,28 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 ```
 
 ## Output:
-**COMPUTE COST VALUE**
 
-![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/ad1784a6-3514-450b-a9c5-13bb3a0c25ce)
-
-**H(X) VALUE**
-
-![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/7db17e1e-b899-4e94-b5d1-acbdc060dd2a)
-
-**COST FUNCTION USING GRADIENT DESCENT GRAPH**
+**PROFIT PREDICTION**:
 
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/d4b0d82c-474e-4a8b-9ae9-7be5882c9bbc)
 
-**PROFIT PREDICTION GRAPH**
+**COST FUNCTION**:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/f38024d8-4bd8-427d-b586-926dfc995dbb)
 
-![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/aaabb494-5453-4f8a-a40e-875076aea92e)
+**GRADIENT DESCENT**:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/e3c8135e-2af4-485b-bcd4-211829a1ce90)
 
-**PROFIT FOR THE POPULATION 35,000**
+**COST FUNCTION USING GRADIENT DESCENT**:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/2f8fe145-230f-4fa9-8289-9db52ad06a05)
 
-![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/77a040fa-3800-4368-b73c-f02b5e27d8eb)
+**GRAPH WITH BEST FIT LINE (PROFIT PREDICTION)**:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/2e0a4ec9-7671-4366-ac5f-9f034ae748d7)
 
-**PROFIT FOR THE POPULATION 70,000**
+**PROFIT PREDICTION FOR A POPULATION OF 35,000 & 70,000**:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/dd363baf-5b5d-40da-a025-c9fbc7872448)
 
-![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/32d57d96-0d39-4e70-984d-8cd7ff5589bb)
+
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
