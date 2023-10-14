@@ -98,18 +98,23 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/d4b0d82c-474e-4a8b-9ae9-7be5882c9bbc)
 
 **COST FUNCTION**:
+
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/f38024d8-4bd8-427d-b586-926dfc995dbb)
 
 **GRADIENT DESCENT**:
+
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/e3c8135e-2af4-485b-bcd4-211829a1ce90)
 
 **COST FUNCTION USING GRADIENT DESCENT**:
+
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/2f8fe145-230f-4fa9-8289-9db52ad06a05)
 
 **GRAPH WITH BEST FIT LINE (PROFIT PREDICTION)**:
+
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/2e0a4ec9-7671-4366-ac5f-9f034ae748d7)
 
 **PROFIT PREDICTION FOR A POPULATION OF 35,000 & 70,000**:
+
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/dd363baf-5b5d-40da-a025-c9fbc7872448)
 
 
