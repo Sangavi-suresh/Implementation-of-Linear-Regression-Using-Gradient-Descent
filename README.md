@@ -95,7 +95,8 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 
 **PROFIT PREDICTION**:
 
-![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/d4b0d82c-474e-4a8b-9ae9-7be5882c9bbc)
+![image](https://github.com/Sangavi-suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118541861/689fb3a8-fa17-45dc-b414-0681cab77c18)
+
 
 **COST FUNCTION**:
 
